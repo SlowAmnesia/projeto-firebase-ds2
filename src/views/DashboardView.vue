@@ -261,7 +261,7 @@ onBeforeUnmount(() => {
 }
 
 .item-jogo:hover {
-  background-color: #f0f3ff;
+  background-color: #1E242E;
 }
 
 .nota-badge {
